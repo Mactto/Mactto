@@ -4,8 +4,7 @@ I'm a second year backend developer, working with frameworks based on python and
 Currently, I'm in my fourth year of university and working at the company on the side.  
 Recently, I've been studying technologies like Hadoop and Spark with an interest in large-scale data processing.  
 
-</br>
-
+  
 ### 🏢 Career
 
 * Full Stack Engineer (2024.01 ~ ) @ [Money Guard](https://www.moneygd.com/default/)
