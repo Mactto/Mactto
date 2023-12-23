@@ -14,7 +14,7 @@ Recently, I've been studying technologies like Hadoop and Spark with an interest
 ### 💻 Activities
 
 * Project Manager in Univting entrepreneurship clubs
-* Leader in LikeLion at Suncheon National University 9th
+* Leader in LikeLion at Soonchunhyang University 9th
 * Backend Develper in UPF 2021ss
 * Backend Develper in DDD programming club
 
