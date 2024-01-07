@@ -20,9 +20,9 @@ Recently, I've been studying technologies like Hadoop and Spark with an interest
 
 ### 🏆 Awards
 
-* 우리은행 블루아워 온택트 해커톤 **장려상** (2021.04.30 ~ 2021.05.03)
-* Google DSC Solution Challenge Korea 해커톤 **Top 수상작 선정** (2021.04.11 ~ 2021.04.13)
-* SW 융합 클러스터 2.0 해커톤 **동상** (2020.10.31 ~ 2020.11.01)
+* Woori Bank Blue Hour Ontact Hackathon **Incentive Award** (2021.04.30 ~ 2021.05.03)
+* Google DSC Solution Challenge Korea Hackathon **Top Winners** (2021.04.11 ~ 2021.04.13)
+* SW Convergence Cluster 2.0 Hackathon **Bronze Statue** (2020.10.31 ~ 2020.11.01)
 
 ### 🗨️ Channels
 
