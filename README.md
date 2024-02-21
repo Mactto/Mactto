@@ -1,6 +1,6 @@
 ### Se Hwan Choi / @Mactto
 
-I'm a second year backend developer, working with frameworks based on python and javascript.  
+I'm a third year backend developer, working with frameworks based on python and javascript.  
 Currently, I'm in my fourth year of university and working at the company on the side.  
 Recently, I've been studying technologies like Hadoop and Spark with an interest in large-scale data processing.  
 
