@@ -7,7 +7,7 @@ Recently, I've been studying technologies like Hadoop and Spark with an interest
   
 ### 🏢 Career
 
-* FullStack Developer (2024.01 ~ ) @ [MoneyGuard](https://www.moneygd.com/default/)
+* FullStack Developer (2024.01 ~ 2024.07) @ [MoneyGuard](https://www.moneygd.com/default/)
 * Backend Engineer (2023.02 ~ 2023.10) @ [Elice](https://elice.io/ko)
 * Backend Engineer (2021.11 ~ 2023.02) @ [Transverse](https://evoclass.ai/)
 
